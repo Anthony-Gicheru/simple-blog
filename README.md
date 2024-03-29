@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. After cloning the repository run the following:
 
-Things you may want to cover:
+bundle install
 
-* Ruby version
+in order to install the dependencies(gems) required for the project
 
-* System dependencies
+2. Run
 
-* Configuration
+bin/dev
 
-* Database creation
+in order to start the server
 
-* Database initialization
+3. Credentials
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Email: test@test.com
+Password: password
